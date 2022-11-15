@@ -3,7 +3,6 @@ local CoreGui = game:GetService("StarterGui")
 local GameTable = {
     [9872472334] = "https://raw.githubusercontent.com/CoffeeStevia/Espresso-Hub/main/Evade",
     [6516141723] = "https://raw.githubusercontent.com/CoffeeStevia/Espresso-Hub/main/Doors",
-    [9498006165] = "https://raw.githubusercontent.com/CoffeeStevia/Espresso-Hub/main/Tapping%20Sim",
 }
 
 
