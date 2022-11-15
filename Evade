@@ -27,7 +27,7 @@ local Window = Rayfield:CreateWindow({
 		Subtitle = "Key System",
 		Note = "Check Discord For Key!",
 		FileName = "EspressoKey",
-		SaveKey = true,
+		SaveKey = false,
 		GrabKeyFromSite = false,
 		Key = "Fisisbdbrbsj"
 	}
