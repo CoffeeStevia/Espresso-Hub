@@ -14,5 +14,5 @@ local GameTable = {
         Text = "We would appreciate if you joined our discord (Copied)";
         Duration = 10;
     })
-    setclipboard("https://discord.gg/dACJYTDU27")
+    setclipboard("http://gg.gg/12mqb4")
     loadstring(game:HttpGet(GameTable[game.PlaceId]))()
