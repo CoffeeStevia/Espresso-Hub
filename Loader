@@ -7,9 +7,8 @@ local GameTable = {
     [5602055394] = "https://raw.githubusercontent.com/CoffeeStevia/Espresso-Hub/main/Espresso%20Hub%20DHM.lua",
 }
 
-
-
-
+--imports
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoffeeStevia/Espresso-Hub/main/Other"))()
 
     CoreGui:SetCore("SendNotification", {
         Title = "Discord";
